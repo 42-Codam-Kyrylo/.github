@@ -12,8 +12,8 @@ and **low-level systems design**.
 | Project | Description | Status |
 |----------|--------------|---------|
 | [libft](https://github.com/42-Codam-Kyrylo/libft) | Reimplementation of standard C library functions | ✅ Finished |
-| [get_next_line](https://github.com/42-Codam-Kyrylo/get_next_line) | Read a line from a file descriptor | 🧩 In progress |
-| [ft_printf](https://github.com/42-Codam-Kyrylo/ft_printf) | Implementation of `printf` | 🧠 Planned |
+| [get_next_line](https://github.com/42-Codam-Kyrylo/get_next_line) | Read a line from a file descriptor | ✅ Finished |
+| [ft_printf](https://github.com/42-Codam-Kyrylo/ft_printf) | Implementation of `printf` | 🧩 In progress |
 
 ---
 
