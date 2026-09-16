@@ -63,7 +63,7 @@ Through this program, I have developed:
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| <a href="https://github.com/42-Codam-Kyrylo/Born2beroot" target="_blank">**Born2beroot**</a> | ✅ Finished | System administration and virtualization. |
+| **Born2beroot** | ✅ Finished | System administration and virtualization. |
 | <a href="https://github.com/42-Codam-Kyrylo/A-Maze-ing" target="_blank">**A-Maze-ing**</a> | ✅ Finished | Build a modular Python maze generator and visualizer that generates both perfect and Pac-Man-style mazes. |
 | **Python Modules 00-10** | ✅ Finished | A deep dive into Python: from basic syntax and OOP, to advanced concepts like data validation (Pydantic), design patterns, and functional programming. *(Consolidated for brevity)* |
 
