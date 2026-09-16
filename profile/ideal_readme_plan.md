@@ -36,9 +36,9 @@ Through this program, I have developed:
 
 | Project | Highlights | Description |
 |---------|------------|-------------|
+| [**ft_transcendence**](https://github.com/42-Codam-Kyrylo/ft_transcendence) | `Full-stack`, `WebSockets`, `Docker` | A full-stack, real-time web application featuring multi-user support, authentication, and selectable modules (e.g., real-time games, chat). |
+| [**Agent Smith**](https://github.com/42-Codam-Kyrylo/Agent-Smith) | `AI/LLMs`, `Python`, `Sandboxing` | An autonomous agentic framework that solves coding challenges by reasoning, generating code, and interacting with tools in a secure environment. |
 | [**Codexion**](https://github.com/42-Codam-Kyrylo/Codexion) | `C`, `Multithreading`, `POSIX` | A multi-threaded concurrency simulation using POSIX threads, mutexes, and custom priority queue scheduling to prevent deadlock. |
-| [**Fly-in**](https://github.com/42-Codam-Kyrylo/Fly-in) | `Python`, `OOP`, `Pathfinding` | Design and simulate an object-oriented drone routing system across a constrained network graph. |
-| [**push_swap**](https://github.com/42-Codam-Kyrylo/push_swap) | `C`, `Algorithms`, `Optimization` | An algorithmic C program that sorts integers across two stacks using a restricted set of operations in the minimum number of moves. |
 
 ---
 
