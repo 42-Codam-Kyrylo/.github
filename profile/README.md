@@ -2,8 +2,8 @@
   <h1>🧠 42 Codam Projects Portfolio</h1>
   <p><i>A comprehensive collection of my projects from the 42 Network curriculum</i></p>
 
-  [![42 Network](https://img.shields.io/badge/School-42_Network-black?style=flat-square&logo=42)](https://42.fr/en/homepage/)
-  [![Codam](https://img.shields.io/badge/Campus-Codam-blue?style=flat-square)](https://www.codam.nl/)
+  <a href="https://42.fr/en/homepage/" target="_blank"><img src="https://img.shields.io/badge/School-42_Network-black?style=flat-square&logo=42" alt="42 Network"/></a>
+  <a href="https://www.codam.nl/" target="_blank"><img src="https://img.shields.io/badge/Campus-Codam-blue?style=flat-square" alt="Codam"/></a>
 </div>
 
 ---
@@ -36,9 +36,9 @@ Through this program, I have developed:
 
 | Project | Highlights | Description |
 |---------|------------|-------------|
-| [**Codexion**](https://github.com/42-Codam-Kyrylo/Codexion) | `C`, `Multithreading`, `POSIX` | A multi-threaded concurrency simulation using POSIX threads, mutexes, and custom priority queue scheduling to prevent deadlock. |
-| [**Fly-in**](https://github.com/42-Codam-Kyrylo/Fly-in) | `Python`, `OOP`, `Pathfinding` | Design and simulate an object-oriented drone routing system across a constrained network graph. |
-| [**push_swap**](https://github.com/42-Codam-Kyrylo/push_swap) | `C`, `Algorithms`, `Optimization` | An algorithmic C program that sorts integers across two stacks using a restricted set of operations in the minimum number of moves. |
+| <a href="https://github.com/42-Codam-Kyrylo/Codexion" target="_blank">**Codexion**</a> | `C`, `Multithreading`, `POSIX` | A multi-threaded concurrency simulation using POSIX threads, mutexes, and custom priority queue scheduling to prevent deadlock. |
+| <a href="https://github.com/42-Codam-Kyrylo/Fly-in" target="_blank">**Fly-in**</a> | `Python`, `OOP`, `Pathfinding` | Design and simulate an object-oriented drone routing system across a constrained network graph. |
+| <a href="https://github.com/42-Codam-Kyrylo/push_swap" target="_blank">**push_swap**</a> | `C`, `Algorithms`, `Optimization` | An algorithmic C program that sorts integers across two stacks using a restricted set of operations in the minimum number of moves. |
 
 ---
 
@@ -50,10 +50,10 @@ Through this program, I have developed:
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| [**Libft**](https://github.com/42-Codam-Kyrylo/libft) | ✅ Finished | Create a foundational C library reimplementing standard libc functions along with additional utility and linked list functions. |
-| [**push_swap**](https://github.com/42-Codam-Kyrylo/push_swap) | ✅ Finished | Write an algorithmic C program that sorts integers across two stacks using a restricted set of operations in the minimum number of moves. |
-| [**get_next_line**](https://github.com/42-Codam-Kyrylo/get_next_line) | ✅ Finished | Develop a C function that reads and returns a single line at a time from a file descriptor using static variables. |
-| [**ft_printf**](https://github.com/42-Codam-Kyrylo/ft_printf) | ✅ Finished | Reimplement the standard C library printf function to format and print various data types using variadic arguments. |
+| <a href="https://github.com/42-Codam-Kyrylo/libft" target="_blank">**Libft**</a> | ✅ Finished | Create a foundational C library reimplementing standard libc functions along with additional utility and linked list functions. |
+| <a href="https://github.com/42-Codam-Kyrylo/push_swap" target="_blank">**push_swap**</a> | ✅ Finished | Write an algorithmic C program that sorts integers across two stacks using a restricted set of operations in the minimum number of moves. |
+| <a href="https://github.com/42-Codam-Kyrylo/get_next_line" target="_blank">**get_next_line**</a> | ✅ Finished | Develop a C function that reads and returns a single line at a time from a file descriptor using static variables. |
+| <a href="https://github.com/42-Codam-Kyrylo/ft_printf" target="_blank">**ft_printf**</a> | ✅ Finished | Reimplement the standard C library printf function to format and print various data types using variadic arguments. |
 
 </details>
 
@@ -63,8 +63,8 @@ Through this program, I have developed:
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| [**Born2beroot**](https://github.com/42-Codam-Kyrylo/Born2beroot) | ✅ Finished | System administration and virtualization. |
-| [**A-Maze-ing**](https://github.com/42-Codam-Kyrylo/A-Maze-ing) | ✅ Finished | Build a modular Python maze generator and visualizer that generates both perfect and Pac-Man-style mazes. |
+| <a href="https://github.com/42-Codam-Kyrylo/Born2beroot" target="_blank">**Born2beroot**</a> | ✅ Finished | System administration and virtualization. |
+| <a href="https://github.com/42-Codam-Kyrylo/A-Maze-ing" target="_blank">**A-Maze-ing**</a> | ✅ Finished | Build a modular Python maze generator and visualizer that generates both perfect and Pac-Man-style mazes. |
 | **Python Modules 00-10** | ✅ Finished | A deep dive into Python: from basic syntax and OOP, to advanced concepts like data validation (Pydantic), design patterns, and functional programming. *(Consolidated for brevity)* |
 
 </details>
@@ -75,9 +75,9 @@ Through this program, I have developed:
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| [**Codexion**](https://github.com/42-Codam-Kyrylo/Codexion) | ✅ Finished | Implement a multi-threaded concurrency simulation in C using POSIX threads. |
-| [**Call Me Maybe**](https://github.com/42-Codam-Kyrylo/call-me-maybe) | 🧩 In progress | Build a Python function-calling tool that translates natural language prompts into valid JSON using constrained decoding. |
-| [**Fly-in**](https://github.com/42-Codam-Kyrylo/Fly-in) | ✅ Finished | Design and simulate an object-oriented drone routing system in Python across a constrained network graph. |
+| <a href="https://github.com/42-Codam-Kyrylo/Codexion" target="_blank">**Codexion**</a> | ✅ Finished | Implement a multi-threaded concurrency simulation in C using POSIX threads. |
+| <a href="https://github.com/42-Codam-Kyrylo/call-me-maybe" target="_blank">**Call Me Maybe**</a> | 🧩 In progress | Build a Python function-calling tool that translates natural language prompts into valid JSON using constrained decoding. |
+| <a href="https://github.com/42-Codam-Kyrylo/Fly-in" target="_blank">**Fly-in**</a> | ✅ Finished | Design and simulate an object-oriented drone routing system in Python across a constrained network graph. |
 
 </details>
 
@@ -87,28 +87,19 @@ Through this program, I have developed:
 
 | Project | Status | Description |
 |---------|--------|-------------|
-| [**NetPractice**](https://github.com/42-Codam-Kyrylo/NetPractice) | ⏳ Upcoming | Learn the fundamentals of computer networking through simulated network configuration exercises. |
-| [**Pac-Man**](https://github.com/42-Codam-Kyrylo/Pac-Man) | ⏳ Upcoming | Develop a complete, playable Pac-Man arcade game in Python featuring autonomous ghost behaviors. |
-| [**RAG against the machine**](https://github.com/42-Codam-Kyrylo/RAG-against-the-machine) | ⏳ Upcoming | Build a Retrieval-Augmented Generation (RAG) system that indexes code and documentation. |
-| [**Inception**](https://github.com/42-Codam-Kyrylo/Inception) | ⏳ Upcoming | Set up a multi-service infrastructure in a VM using Docker Compose (NGINX, WordPress, MariaDB). |
-| [**The Answear Protocol**](https://github.com/42-Codam-Kyrylo/The-Answear-Protocol) | ⏳ Upcoming | Build a multiplayer retro text adventure featuring a line-based TCP server. |
-| [**Agent Smith**](https://github.com/42-Codam-Kyrylo/Agent-Smith) | ⏳ Upcoming | Build an autonomous agentic framework that solves coding challenges. |
-| [**ft_transcendence**](https://github.com/42-Codam-Kyrylo/ft_transcendence) | ⏳ Upcoming | Develop a full-stack, real-time web application featuring multi-user support and containerized deployment. |
+| <a href="https://github.com/42-Codam-Kyrylo/NetPractice" target="_blank">**NetPractice**</a> | ⏳ Upcoming | Learn the fundamentals of computer networking through simulated network configuration exercises. |
+| <a href="https://github.com/42-Codam-Kyrylo/Pac-Man" target="_blank">**Pac-Man**</a> | ⏳ Upcoming | Develop a complete, playable Pac-Man arcade game in Python featuring autonomous ghost behaviors. |
+| <a href="https://github.com/42-Codam-Kyrylo/RAG-against-the-machine" target="_blank">**RAG against the machine**</a> | ⏳ Upcoming | Build a Retrieval-Augmented Generation (RAG) system that indexes code and documentation. |
+| <a href="https://github.com/42-Codam-Kyrylo/Inception" target="_blank">**Inception**</a> | ⏳ Upcoming | Set up a multi-service infrastructure in a VM using Docker Compose (NGINX, WordPress, MariaDB). |
+| <a href="https://github.com/42-Codam-Kyrylo/The-Answear-Protocol" target="_blank">**The Answear Protocol**</a> | ⏳ Upcoming | Build a multiplayer retro text adventure featuring a line-based TCP server. |
+| <a href="https://github.com/42-Codam-Kyrylo/Agent-Smith" target="_blank">**Agent Smith**</a> | ⏳ Upcoming | Build an autonomous agentic framework that solves coding challenges. |
+| <a href="https://github.com/42-Codam-Kyrylo/ft_transcendence" target="_blank">**ft_transcendence**</a> | ⏳ Upcoming | Develop a full-stack, real-time web application featuring multi-user support and containerized deployment. |
 
 </details>
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kyrylo&show_icons=true&theme=transparent" alt="Kyrylo's GitHub stats" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kyrylo&layout=compact&theme=transparent" alt="Top Languages" width="48%"/>
-</div>
-
----
-
 ## 📫 Let's Connect
 
-[![GitHub](https://img.shields.io/badge/GitHub-Kyrylo-black?style=for-the-badge&logo=github)](https://github.com/Kyrylo)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kyrylo-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kyrylo/)
+<a href="https://github.com/Kyrylo" target="_blank"><img src="https://img.shields.io/badge/GitHub-Kyrylo-black?style=for-the-badge&logo=github" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/kyrylo/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Kyrylo-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/></a>
