@@ -36,9 +36,9 @@ Through this program, I have developed:
 
 | Project | Highlights | Description |
 |---------|------------|-------------|
+| <a href="https://github.com/42-Codam-Kyrylo/call-me-maybe" target="_blank">**Call Me Maybe**</a> | `AI/LLMs`, `Python`, `JSON` | A Python function-calling tool translating natural language prompts into valid JSON using constrained decoding with small local LLM. |
 | <a href="https://github.com/42-Codam-Kyrylo/Codexion" target="_blank">**Codexion**</a> | `C`, `Multithreading`, `POSIX` | A multi-threaded concurrency simulation using POSIX threads, mutexes, and custom priority queue scheduling to prevent deadlock. |
 | <a href="https://github.com/42-Codam-Kyrylo/Fly-in" target="_blank">**Fly-in**</a> | `Python`, `OOP`, `Pathfinding` | Design and simulate an object-oriented drone routing system across a constrained network graph. |
-| <a href="https://github.com/42-Codam-Kyrylo/push_swap" target="_blank">**push_swap**</a> | `C`, `Algorithms`, `Optimization` | An algorithmic C program that sorts integers across two stacks using a restricted set of operations in the minimum number of moves. |
 
 ---
 
@@ -70,13 +70,13 @@ Through this program, I have developed:
 </details>
 
 <details>
-<summary><b>Milestone 3: Concurrency & Automation</b> (In Progress 🚧)</summary>
+<summary><b>Milestone 3: Concurrency & Automation</b> (Completed ✅)</summary>
 <br>
 
 | Project | Status | Description |
 |---------|--------|-------------|
 | <a href="https://github.com/42-Codam-Kyrylo/Codexion" target="_blank">**Codexion**</a> | ✅ Finished | Implement a multi-threaded concurrency simulation in C using POSIX threads. |
-| <a href="https://github.com/42-Codam-Kyrylo/call-me-maybe" target="_blank">**Call Me Maybe**</a> | 🧩 In progress | Build a Python function-calling tool that translates natural language prompts into valid JSON using constrained decoding. |
+| <a href="https://github.com/42-Codam-Kyrylo/call-me-maybe" target="_blank">**Call Me Maybe**</a> | ✅ Finished | Build a Python function-calling tool that translates natural language prompts into valid JSON using constrained decoding with small local LLM. |
 | <a href="https://github.com/42-Codam-Kyrylo/Fly-in" target="_blank">**Fly-in**</a> | ✅ Finished | Design and simulate an object-oriented drone routing system in Python across a constrained network graph. |
 
 </details>
